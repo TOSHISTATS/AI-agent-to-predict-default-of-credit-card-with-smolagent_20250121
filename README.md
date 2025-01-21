@@ -9,6 +9,15 @@ smolagentによるAIエージェントがクレジットカードのデフォル
 
 
 
+@Misc{smolagents,
+  title =        {`smolagents`: a smol library to build great agentic systems.},
+  author =       {Aymeric Roucher and Albert Villanova del Moral and Thomas Wolf and Leandro von Werra and Erik Kaunismäki},
+  howpublished = {\url{https://github.com/huggingface/smolagents}},
+  year =         {2025}
+}
+
+
+
 
 ![Screenshot 2025-01-21 21 25 54](https://github.com/user-attachments/assets/51825d1a-c4cd-4102-87c2-be4e19ad0fde)
 
