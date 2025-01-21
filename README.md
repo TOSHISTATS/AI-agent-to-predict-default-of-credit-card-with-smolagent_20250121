@@ -9,6 +9,7 @@ smolagentによるAIエージェントがクレジットカードのデフォル
 
 
 
+
 @Misc{smolagents,
   title =        {`smolagents`: a smol library to build great agentic systems.},
   author =       {Aymeric Roucher and Albert Villanova del Moral and Thomas Wolf and Leandro von Werra and Erik Kaunismäki},
